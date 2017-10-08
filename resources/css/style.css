@@ -1,6 +1,7 @@
 
 html {
   font-family: verdana;
+  color: white;
 }
 
 body {
@@ -11,5 +12,21 @@ h1{
   font-weight: normal;
   font-size: 50px;
   color: white;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 21px;
+}
+
+.download_link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
   text-align: center;
 }
